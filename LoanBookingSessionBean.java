@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.collector;
 import java.util.Math;
 import java.util.clci;
-import java.util.calculator:
+
 
 
 public class SpiralPatternExample2
